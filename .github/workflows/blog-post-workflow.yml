@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in Substack posts
-        uses: jimmyhuydev/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://jimmyhuy.substack.com/feed"
           max_post_count: 5
