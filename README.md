@@ -23,8 +23,6 @@ I enjoy that I can use it for practically everything.
 # Palo Alto firewall
 Active learning Palo Alto firewall training.
 
-# Recent Blog Posts
-
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
