@@ -6,7 +6,7 @@ I'm in love with my work because there is always more to learn.
 
 - Learning DevOps and Cyber Security
 
-- Learning Built personal Kubernetes homelab (learning production patterns)
+- Learning to build personal Kubernetes homelab (learning production patterns)
 
 # Things I've Built
 
