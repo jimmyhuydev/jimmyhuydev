@@ -12,7 +12,7 @@ I'm in love with my work because there is always more to learn.
 
 Promox simulation lab environment for my cyber security home labs
 
-## Recent Blog Posts
+# Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
