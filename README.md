@@ -12,6 +12,12 @@ I'm in love with my work because there is always more to learn.
 
 Promox simulation lab environment for my cyber security home labs
 
+## Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 # Microsoft Azure
 I worked as an IT Support Specialist, where I deployed servers on Microsoft Azure and configured the production environment for business clients to access through web applications. 
 I also managed and configured Azure Firewall policies, controlling port access to maintain a secure and compliant infrastructure.
