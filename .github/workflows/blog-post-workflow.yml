@@ -16,5 +16,5 @@ jobs:
       - name: Pull in Substack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jimmyhuy.substack.com/feed"
+          feed_list: "https://substack.com/@jimmyhuydev/notes"
           max_post_count: 5
