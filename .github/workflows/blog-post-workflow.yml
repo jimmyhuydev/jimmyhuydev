@@ -13,9 +13,9 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          file: 'README.md'
-          format: '- ${day} ${monthlong} - [${title}](${url})'
-          timezone: 'Pacific Standard Time'
+          file: README.md
+          format: "- ${day} ${monthlong} - [${title}](${url})"
+          timezone: "Pacific Standard Time"
           url: "https://jimmyhuydev.blogspot.com/feeds/posts/default"
 
       - if: ${{ steps.feed.outputs.changed == 'true' }}
