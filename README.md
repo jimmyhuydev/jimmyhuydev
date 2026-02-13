@@ -1,4 +1,5 @@
 Welcome 👋
+
 Hey there, I'm Jimmy Nguyen.
 
 I workded as IT Support Specialist. I mainly work with Ubuntu linux, Azure, Window Server
