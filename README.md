@@ -17,7 +17,7 @@ I worked as an IT Support Specialist, where I deployed servers on Microsoft Azur
 I also managed and configured Azure Firewall policies to control port access and maintain a secure, compliant infrastructure.
 
 # Python
-Active learning Python.
+Active learning Python in college now.
 I enjoy that I can use it for practically everything.
 
 # Palo Alto firewall
