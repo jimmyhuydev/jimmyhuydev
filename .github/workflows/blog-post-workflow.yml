@@ -16,7 +16,7 @@ jobs:
           format: '- ${day} ${monthlong} - [${title}](${url})'
           timezone: 'Pacific Standard Time'
           url:
-            https://jimmyhuydev.blogspot.com/feeds/posts/default
+            https://jimmyhuydev.blogspot.com/feeds/posts/default?alt=json
             
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
