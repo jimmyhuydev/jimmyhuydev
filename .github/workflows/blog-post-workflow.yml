@@ -14,7 +14,7 @@ jobs:
         with:
           file: 'README.md'
           format: '- ${day} ${monthlong} - [${title}](${url})'
-          timezone: 'Europe/London'
+          timezone: 'Pacific Standard Time'
           url: |
             https://jimmyhuydev.blogspot.com/feeds/posts/default
             
