@@ -24,6 +24,6 @@ I enjoy that I can use it for practically everything.
 Active learning Palo Alto firewall training.
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- feed start -->
+<!-- feed end -->
 working....
