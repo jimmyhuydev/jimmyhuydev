@@ -1,32 +1,22 @@
-name: Update Profile with Blog Data
-
+name: All recent posts
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - name: Fetch blog JSON
-        run: |
-          curl -o blog.json https://jimmyhuydev.blogspot.com/feeds/posts/default  # Replace with your blog's JSON URL
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          format: '- ${day} ${monthlong} - [${title}](${url})'
+          timezone: 'Pacific Standard Time'
+          url: "https://jimmyhuydev.blogspot.com/feeds/posts/default"
 
-      - name: Update README
-        run: |
-          # Process the JSON and update README.md
-          # Example: Use jq to extract data and format it
-          echo "## Latest Blog Posts" >> README.md
-          jq -r '.posts[] | "- [\(.title)](\(.link))"' blog.json >> README.md
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with latest blog posts"
-          git push
+      - if: ${{ steps.feed.outputs.changed == 'true' }}
+        uses: sarisia/actions-commit@master
