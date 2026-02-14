@@ -27,7 +27,3 @@ I enjoy that I can use it for practically everything.
 # Palo Alto firewall
 Active learning Palo Alto firewall training.
 
-## 📝 Latest Blog Posts 
-<!--START_SECTION:feed--> 
-<!--END_SECTION:feed-->
-
