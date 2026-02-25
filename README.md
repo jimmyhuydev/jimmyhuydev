@@ -8,9 +8,9 @@ I'm in love with my work because there is always more to learn.
 
 # In Progress
 
-- Learning DevOps and Cyber Security
+- Active learning DevOps and Cyber Security
 
-- Learning to build personal Kubernetes homelab (learning production patterns)
+- Active learning to build personal Kubernetes homelab (learning production patterns)
 
 # Things I've Built
 
@@ -25,5 +25,9 @@ Active learning Python in college now.
 I enjoy that I can use it for practically everything.
 
 # Palo Alto firewall
-Active learning Palo Alto firewall training.
+Completed the Palo Alto lessons to understand CyberSecurity
+- CyberSecurity Fundamentals
+- Network Security Fundamentals
+- Cloud Security Fundamentals
+- Security Operation Fundamentals
 
