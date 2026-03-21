@@ -21,8 +21,8 @@ I'm in love with my work because there is always more to learn.
 - Performed network traffic analysis and vulnerability scanning to identify and exploit security weaknesses in isolated test environments 
 
 # Microsoft Azure
-- Deployed servers on Microsoft Azure and configured production environments for business clients to access through web applications. 
-- Managed and configured Azure Firewall policies to control port access and maintain a secure, compliant infrastructure.
+- Provisioned and configured Microsoft Azure servers and production environments, enabling seamless web application access for business clients across multiple deployments
+- Designed and enforced Azure Firewall policies to regulate port-level access, maintaining a secure and compliance-ready cloud infrastructure
 
 # Certifications
 - CyberSecurity Fundamentals
