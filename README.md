@@ -9,23 +9,22 @@ I'm in love with my work because there is always more to learn.
 # In Progress
 
 - Active learning DevOps and Cyber Security
+- Python: Active learning Python.
+- PaloAlto firewall : Active learning Palo Alto 
+- Linux: daily linux user
 
 - Active learning to build personal Kubernetes homelab (learning production patterns)
 
-# Things I've Built
+# Projects
 
-Promox simulation lab environment for my cyber security home labs
+- Built a Proxmox-based home lab simulating enterprise network environments with Kali Linux, Ubuntu, and Windows Sandbox VMs
+- Performed network traffic analysis and vulnerability scanning to identify and exploit security weaknesses in isolated test environments 
 
 # Microsoft Azure
-I worked as an IT Support Specialist, where I deployed servers on Microsoft Azure and configured production environments for business clients to access through web applications. 
-I also managed and configured Azure Firewall policies to control port access and maintain a secure, compliant infrastructure.
+- Deployed servers on Microsoft Azure and configured production environments for business clients to access through web applications. 
+- Managed and configured Azure Firewall policies to control port access and maintain a secure, compliant infrastructure.
 
-# Python
-Active learning Python in college now.
-I enjoy that I can use it for practically everything.
-
-# Palo Alto firewall
-Completed the Palo Alto lessons to understand CyberSecurity
+# Certifications
 - CyberSecurity Fundamentals
 - Network Security Fundamentals
 - Cloud Security Fundamentals
