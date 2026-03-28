@@ -34,7 +34,7 @@ Currently leveling up:
 🚀 Developing a broader DevOps skill set through hands-on, self-directed learning
 
 # Projects
-- Built a Proxmox-based home lab simulating enterprise network environments with Kali Linux, Ubuntu, and Windows Sandbox VMs [more here...](https://blog.jimmynguyen.co.nz/infrastructure/2024/01/15/building-my-homelab.html){:target=”_blank”}
+- Built a Proxmox-based home lab simulating enterprise network environments with Kali Linux, Ubuntu, and Windows Sandbox VMs [more here...](https://blog.jimmynguyen.co.nz/infrastructure/2024/01/15/building-my-homelab.html){:target="_blank" rel="noopener"}
 - Performed network traffic analysis and vulnerability scanning to identify and exploit security weaknesses in isolated test environments 
 
 
