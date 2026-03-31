@@ -44,6 +44,6 @@ Currently leveling up:
 - Cloud Security Fundamentals
 - Security Operation Fundamentals
 
-# DevOps Updates /  Blogs
+# Blogs Post, DevOps Updates
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
