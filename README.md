@@ -2,9 +2,9 @@ Welcome 👋
 
 Hey there, I'm Jimmy Nguyen.
 
-IT Support professional with 5+ years of experience across Windows Server, Windows workstations, and Microsoft Azure — supporting enterprise infrastructure, cloud deployments, and network security for business clients.
+IT Support professional with 5+ years of experience across Windows Server, Windows workstations, and Microsoft Azure, supporting enterprise infrastructure, cloud deployments, and network security for business clients.
 
-I've built a strong foundation in hands-on IT delivery: deploying VMs on Azure, configuring web-accessible applications, managing SQL databases, and resolving everything from LAN and Wi-Fi issues to day-to-day end-user support. I take a solutions-first approach and pride myself on clear communication with both technical 
+I've built a strong foundation in hands-on IT delivery: deploying VMs on Azure, configuring web accessible applications, managing SQL databases, and resolving everything from LAN and Wi-Fi issues to day to day end user support. I take a solutions-first approach and pride myself on clear communication with both technical 
 and non-technical clients.
 
 Currently completing an Associate Degree in Cyber Security at Sierra College, Sacramento, I'm deepening my expertise in networking, firewalls, and DevOps practices — with ongoing homelab projects that keep my skills sharp and current.
