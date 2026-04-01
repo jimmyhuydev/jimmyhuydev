@@ -46,4 +46,9 @@ Currently leveling up:
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
+- [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
+- [AWS Makes Pair of AI Agents to Automate DevOps Tasks Available](https://devops.com/aws-makes-pair-of-ai-agents-to-automate-devops-tasks-available/)
+- [Harness Extends CD Platform to Address AI Coding Challenges](https://devops.com/harness-extends-cd-platform-to-address-ai-coding-challenges/)
+- [The Trust Tax Framework: Measuring Developer Confidence in CI/CD Systems](https://devops.com/the-trust-tax-framework-measuring-developer-confidence-in-ci-cd-systems/)
 <!-- BLOG-POST-LIST:END -->
