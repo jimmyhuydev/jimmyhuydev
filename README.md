@@ -46,9 +46,19 @@ Currently leveling up:
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
+- [GitHub Adds 37 New Secret Detectors in March, Extends Scanning to AI Coding Agents](https://devops.com/github-adds-37-new-secret-detectors-in-march-extends-scanning-to-ai-coding-agents/)
+- [Developers Using Anthropic Claude Code Hit by Token Drain Crisis](https://devops.com/claude-code-quota-limits-usage-problems/)
+- [North Korean Hackers Suspected in Supply Chain Attack on Popular Axios Project](https://devops.com/north-korean-hackers-suspected-in-supply-chain-attack-on-popular-axios-project/)
 - [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
 - [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
 - [AWS Makes Pair of AI Agents to Automate DevOps Tasks Available](https://devops.com/aws-makes-pair-of-ai-agents-to-automate-devops-tasks-available/)
 - [Harness Extends CD Platform to Address AI Coding Challenges](https://devops.com/harness-extends-cd-platform-to-address-ai-coding-challenges/)
 - [The Trust Tax Framework: Measuring Developer Confidence in CI/CD Systems](https://devops.com/the-trust-tax-framework-measuring-developer-confidence-in-ci-cd-systems/)
+- [Why Governance Determines Whether Agentic AI Accelerates or Stalls Engineering](https://devops.com/why-governance-determines-whether-agentic-ai-accelerates-or-stalls-engineering/)
+- [When Customer-Facing Systems Fail: How Incident Response and Observability Reduce MTTR](https://devops.com/when-customer-facing-systems-fail-how-incident-response-and-observability-reduce-mttr/)
+- [Iceberg Won the Format War — Now Comes the Hard Part](https://devops.com/iceberg-won-the-format-war-now-comes-the-hard-part/)
+- [Lightrun Adds Ability to Dynamically Pull Telemetry Data from Live Apps](https://devops.com/lightrun-adds-ability-to-dynamically-pull-telemetry-data-from-live-apps/)
+- [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/)
+- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/)
 <!-- BLOG-POST-LIST:END -->
