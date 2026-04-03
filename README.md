@@ -46,6 +46,14 @@ Currently leveling up:
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/)
+- [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/)
+- [Why Code Validation is the Next Frontier](https://devops.com/why-code-validation-is-the-next-frontier/)
+- [Giving AI Agents the Keys to Real Infrastructure](https://devops.com/giving-ai-agents-the-keys-to-real-infrastructure/)
+- [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/)
+- [Survey Surfaces Increased Reliance on Open Source Software to Build Apps](https://devops.com/survey-surfaces-increased-reliance-on-open-source-software-to-build-apps/)
+- [How AI is Shaping Modern DevOps and DevSecOps](https://devops.com/how-ai-is-shaping-modern-devops-and-devsecops/)
+- [Meta Researchers Show AI Agents Can Verify Code Without Running It — and Hit 93% Accuracy](https://devops.com/meta-researchers-show-ai-agents-can-verify-code-without-running-it-and-hit-93-accuracy/)
 - [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
 - [GitHub Adds 37 New Secret Detectors in March, Extends Scanning to AI Coding Agents](https://devops.com/github-adds-37-new-secret-detectors-in-march-extends-scanning-to-ai-coding-agents/)
 - [Developers Using Anthropic Claude Code Hit by Token Drain Crisis](https://devops.com/claude-code-quota-limits-usage-problems/)
@@ -53,12 +61,4 @@ Currently leveling up:
 - [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
 - [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
 - [AWS Makes Pair of AI Agents to Automate DevOps Tasks Available](https://devops.com/aws-makes-pair-of-ai-agents-to-automate-devops-tasks-available/)
-- [Harness Extends CD Platform to Address AI Coding Challenges](https://devops.com/harness-extends-cd-platform-to-address-ai-coding-challenges/)
-- [The Trust Tax Framework: Measuring Developer Confidence in CI/CD Systems](https://devops.com/the-trust-tax-framework-measuring-developer-confidence-in-ci-cd-systems/)
-- [Why Governance Determines Whether Agentic AI Accelerates or Stalls Engineering](https://devops.com/why-governance-determines-whether-agentic-ai-accelerates-or-stalls-engineering/)
-- [When Customer-Facing Systems Fail: How Incident Response and Observability Reduce MTTR](https://devops.com/when-customer-facing-systems-fail-how-incident-response-and-observability-reduce-mttr/)
-- [Iceberg Won the Format War — Now Comes the Hard Part](https://devops.com/iceberg-won-the-format-war-now-comes-the-hard-part/)
-- [Lightrun Adds Ability to Dynamically Pull Telemetry Data from Live Apps](https://devops.com/lightrun-adds-ability-to-dynamically-pull-telemetry-data-from-live-apps/)
-- [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/)
-- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/)
 <!-- BLOG-POST-LIST:END -->
