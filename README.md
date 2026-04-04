@@ -46,6 +46,9 @@ Currently leveling up:
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Latest Typosquatting Attack Targeting VS Code Tools Hits Windsurf IDE](https://devops.com/latest-typosquatting-attack-targeting-vs-code-tools-hits-windsurf-ide/)
+- [AI Won’t Replace Developers—But it is Changing How They Work](https://devops.com/ai-wont-replace-developers-but-it-is-changing-how-they-work/)
+- [Microsoft Field Engineers Built a Six-Agent Research Pipeline in VS Code That Fact-Checks Its Own Output](https://devops.com/microsoft-field-engineers-built-a-six-agent-research-pipeline-in-vs-code-that-fact-checks-its-own-output/)
 - [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/)
 - [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/)
 - [Why Code Validation is the Next Frontier](https://devops.com/why-code-validation-is-the-next-frontier/)
@@ -57,8 +60,5 @@ Currently leveling up:
 - [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
 - [GitHub Adds 37 New Secret Detectors in March, Extends Scanning to AI Coding Agents](https://devops.com/github-adds-37-new-secret-detectors-in-march-extends-scanning-to-ai-coding-agents/)
 - [Developers Using Anthropic Claude Code Hit by Token Drain Crisis](https://devops.com/claude-code-quota-limits-usage-problems/)
-- [North Korean Hackers Suspected in Supply Chain Attack on Popular Axios Project](https://devops.com/north-korean-hackers-suspected-in-supply-chain-attack-on-popular-axios-project/)
 - [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
-- [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
-- [AWS Makes Pair of AI Agents to Automate DevOps Tasks Available](https://devops.com/aws-makes-pair-of-ai-agents-to-automate-devops-tasks-available/)
 <!-- BLOG-POST-LIST:END -->
