@@ -46,6 +46,9 @@ Currently leveling up:
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Bad Actor Drops 36 Malicious Packages in npm, Targets Guardarian Users](https://devops.com/bad-actor-drops-36-malicious-packages-in-npm-targets-guardarian-users/)
+- [Is Your AI Agent Secure? The DevOps Case for Adversarial QA Testing](https://devops.com/is-your-ai-agent-secure-the-devops-case-for-adversarial-qa-testing/)
+- [Five Great DevOps Job Opportunities](https://devops.com/five-great-devops-job-opportunities-183/)
 - [Latest Typosquatting Attack Targeting VS Code Tools Hits Windsurf IDE](https://devops.com/latest-typosquatting-attack-targeting-vs-code-tools-hits-windsurf-ide/)
 - [AI Won’t Replace Developers—But it is Changing How They Work](https://devops.com/ai-wont-replace-developers-but-it-is-changing-how-they-work/)
 - [Microsoft Field Engineers Built a Six-Agent Research Pipeline in VS Code That Fact-Checks Its Own Output](https://devops.com/microsoft-field-engineers-built-a-six-agent-research-pipeline-in-vs-code-that-fact-checks-its-own-output/)
@@ -56,9 +59,6 @@ Currently leveling up:
 - [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/)
 - [Survey Surfaces Increased Reliance on Open Source Software to Build Apps](https://devops.com/survey-surfaces-increased-reliance-on-open-source-software-to-build-apps/)
 - [How AI is Shaping Modern DevOps and DevSecOps](https://devops.com/how-ai-is-shaping-modern-devops-and-devsecops/)
-- [Meta Researchers Show AI Agents Can Verify Code Without Running It — and Hit 93% Accuracy](https://devops.com/meta-researchers-show-ai-agents-can-verify-code-without-running-it-and-hit-93-accuracy/)
 - [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
-- [GitHub Adds 37 New Secret Detectors in March, Extends Scanning to AI Coding Agents](https://devops.com/github-adds-37-new-secret-detectors-in-march-extends-scanning-to-ai-coding-agents/)
-- [Developers Using Anthropic Claude Code Hit by Token Drain Crisis](https://devops.com/claude-code-quota-limits-usage-problems/)
 - [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
 <!-- BLOG-POST-LIST:END -->
