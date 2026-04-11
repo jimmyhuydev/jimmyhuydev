@@ -46,6 +46,10 @@ Currently leveling up:
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Dynatrace to Acquire Bindplane to Process and Route Telemetry Data](https://devops.com/dynatrace-to-acquire-bindplane-to-process-and-route-telemetry-data/)
+- [CloudBees Delivers on AI Promise to Improve Application Testing](https://devops.com/cloudbees-delivers-on-ai-promise-to-improve-application-testing/)
+- [How Much Is That AI Subscription in the Window?](https://devops.com/how-much-is-that-ai-subscription-in-my-windows/)
+- [Google’s Scion Gives Developers a Smarter Way to Run AI Agents in Parallel](https://devops.com/googles-scion-gives-developers-a-smarter-way-to-run-ai-agents-in-parallel/)
 - [Appknox Adds AI Tool to Detect and Fix Vulnerabilities in Mobile Applications](https://devops.com/appknox-adds-ai-tool-to-detect-and-fix-vulnerabilities-in-mobile-applications/)
 - [Zencoder Adds OpenClaw Alternative to AI Coding Portfolio](https://devops.com/zencoder-adds-openclaw-alternative-to-ai-coding-portfolio/)
 - [Mallory Launches AI-Native Threat Intelligence Platform, Turning Global Threat Data Into Prioritized Action](https://devops.com/mallory-launches-ai-native-threat-intelligence-platform-turning-global-threat-data-into-prioritized-action/)
@@ -53,10 +57,6 @@ Currently leveling up:
 - [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/)
 - [Google’s Next Coding Agent Could Change How Developers Think About Their Work](https://devops.com/googles-next-coding-agent-could-change-how-developers-think-about-their-work/)
 - [Claude Code’s Ultraplan Bridges the Gap Between Planning and Execution](https://devops.com/claude-codes-ultraplan-bridges-the-gap-between-planning-and-execution/)
-- [Survey Surfaces Rising Tide of Investments in Observability](https://devops.com/survey-surfaces-rising-tide-of-investments-in-observability/)
-- [Apica Extends Scope and Reach of Platform for Managing Telemetry Data](https://devops.com/apica-extends-scope-and-reach-of-platform-for-managing-telemetry-data/)
-- [Minimus Hyper-Growth Underway with Yael Nardi as New Chief Business Officer](https://devops.com/minimus-hyper-growth-underway-with-yael-nardi-as-new-chief-business-officer/)
-- [Why Most DevSecOps Pipelines Fail at Runtime Security &lpar;not Build Time&rpar;](https://devops.com/why-most-devsecops-pipelines-fail-at-runtime-security-not-build-time/)
 - [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/)
 - [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/)
 - [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/)
