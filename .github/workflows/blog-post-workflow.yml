@@ -16,6 +16,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://devops.com/feed/,https://www.docker.com/feed/,https://devblogs.microsoft.com/devops/feed/,https://blog.jimmynguyen.co.nz/"
-          feed_names: "Devops, Docker, Microsoft, Blog"  # Labels for each feed
-          max_post_count: "15"
+          feed_list: "https://krebsonsecurity.com/feed"
+          feed_names: "Cyber security news"  # Labels for each feed
+          max_post_count: "5"
