@@ -19,19 +19,17 @@ What I do:
 
 ✅ Monitor infrastructure using PRTG and Azure Monitor 
 
-✅ Optimize VM deployment workflows and SQL database migrations to reduce delivery time and improve customer satisfaction
-
 Currently leveling up: 
 
-🔐 Hands-on Palo Alto Networks firewall configuration through self-directed lab practice 
+✅ Hands-on Palo Alto Networks firewall configuration through self-directed lab practice 
 
-🐍 Building Python programming skills through practical, self-led projects
+✅ Building Python programming skills through practical, self-led projects
 
-🐳 Learning Docker to build and manage containerised environments 
+✅ Learning Docker to build and manage containerised environments 
 
-⚙️ Writing Bash scripts to automate tasks and streamline workflows 
+✅ Writing Bash scripts to automate tasks and streamline workflows 
 
-🚀 Developing a broader DevOps skill set through hands-on, self-directed learning
+✅ Developing a broader DevOps skill set through hands-on, self-directed learning
 
 # Projects
 - Built a Proxmox-based home lab simulating enterprise network environments with Kali Linux, Ubuntu, and Windows Sandbox VMs [more here...](https://blog.jimmynguyen.co.nz/infrastructure/2024/01/15/building-my-homelab.html)
