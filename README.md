@@ -9,7 +9,7 @@ and non-technical clients.
 
 Currently completing an Associate Degree in Cyber Security at Sierra College, Sacramento, I'm deepening my expertise in networking, firewalls, and DevOps practices — with ongoing homelab projects that keep my skills sharp and current.
 
-What I do: 
+Technical background:
 
 ✅ Deploy and manage Virtual Machines on Microsoft Azure for business clients 
 
@@ -37,11 +37,12 @@ Currently leveling up:
 
 
 # Certifications
-- CyberSecurity Fundamentals
-- Network Security Fundamentals
-- Cloud Security Fundamentals
-- Security Operation Fundamentals
-
+- CyberSecurity Fundamentals (Palo Alto)
+- Network Security Fundamentals (Palo Alto)
+- Cloud Security Fundamentals (Palo Alto)
+- Security Operation Fundamentals (Palo Alto)
+- American Red Cross CPR
+ 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
