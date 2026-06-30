@@ -19,11 +19,11 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
     • Soft Skills: Customer service, communication, prioritisation, teamwork
 
 # Projects
-- Performed network traffic analysis and vulnerability scanning to identify and exploit security weaknesses in isolated test environments
-- Cyber Security Homelab — Proxmox (Self‑Hosted)
-    • Built multi‑OS lab environments to practise troubleshooting, identity management, and network configuration.
-    • Simulated enterprise support scenarios using AD, DNS, DHCP, and Group Policy.
-    • Performed vulnerability scanning and remediation using Nmap, Wireshark, Metasploit, OpenVAS, and Wazuh.
+    - Performed network traffic analysis and vulnerability scanning to identify and exploit security weaknesses in isolated test environments
+    - Cyber Security Homelab — Proxmox (Self‑Hosted)
+        • Built multi‑OS lab environments to practise troubleshooting, identity management, and network configuration.
+        • Simulated enterprise support scenarios using AD, DNS, DHCP, and Group Policy.
+        • Performed vulnerability scanning and remediation using Nmap, Wireshark, Metasploit, OpenVAS, and Wazuh.
 
 # Education
    - Associate of Arts – Information Technology (Cyber Security) Sierra College, California | May 2026
