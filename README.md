@@ -37,7 +37,7 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 - American Red Cross CPR
   
 # Additional information:
-- Work Rights: New Zealand Citizen (eligible to work in Australia)
+- Work Rights: eligible to work in Australia
 - Work Model: Open to on‑site, hybrid, or remote
 
 
