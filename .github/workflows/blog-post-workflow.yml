@@ -16,6 +16,8 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://krebsonsecurity.com/feed"
-          feed_names: "Cyber security news"  # Labels for each feed
-          max_post_count: "5"
+          feed_list: "https://krebsonsecurity.com/feed,https://labs.iximiuz.com/feed.rss?kind=blog-post"
+          feed_names: "News / Blog post"  # Labels for each feed
+          max_post_count: "20"
+
+
