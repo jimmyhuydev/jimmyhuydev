@@ -48,4 +48,11 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 - [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+- [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+- [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+- [Blog Post: Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own Virtual Labs](https://labs.iximiuz.com/blog/iximiuz-labs-playgrounds-2-0)
+- [Blog Post: Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://labs.iximiuz.com/blog/iximiuz-labs-story)
 <!-- BLOG-POST-LIST:END -->
