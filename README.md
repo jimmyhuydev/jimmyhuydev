@@ -29,12 +29,12 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
    - Associate of Arts – Information Technology (Cyber Security) Sierra College, California | May 2026
    - Bachelor of Information Technology Southern Institute of Technology, New Zealand | 2015
 
-# Certifications
+# Certifications and other skills
 - CyberSecurity Fundamentals (Palo Alto)
 - Network Security Fundamentals (Palo Alto)
 - Cloud Security Fundamentals (Palo Alto)
 - Security Operation Fundamentals (Palo Alto)
-- American Red Cross CPR
+- American RedCross CPR
   
 # Additional information:
 - Work Rights: eligible to work in Australia
