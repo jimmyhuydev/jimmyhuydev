@@ -43,6 +43,7 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 - [Blog Post: Thoughts on OpenAI&#39;s accidental attack against Hugging Face](https://labs.iximiuz.com/blog/on-openai-hugging-face-attack)
 - [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
@@ -54,7 +55,6 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 - [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 - [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
-- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - [Blog Post: Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own Virtual Labs](https://labs.iximiuz.com/blog/iximiuz-labs-playgrounds-2-0)
 - [Blog Post: Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://labs.iximiuz.com/blog/iximiuz-labs-story)
 <!-- BLOG-POST-LIST:END -->
