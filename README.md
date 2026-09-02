@@ -43,6 +43,7 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
@@ -54,7 +55,6 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 - [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 - [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
-- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 - [Blog Post: Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own Virtual Labs](https://labs.iximiuz.com/blog/iximiuz-labs-playgrounds-2-0)
 - [Blog Post: Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://labs.iximiuz.com/blog/iximiuz-labs-story)
 <!-- BLOG-POST-LIST:END -->
