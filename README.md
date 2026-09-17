@@ -43,6 +43,7 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
@@ -54,7 +55,6 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 - [Blog Post: Are user namespaces good for your health?](https://labs.iximiuz.com/blog/on-user-namespaces)
 - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-- [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 - [Blog Post: Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own Virtual Labs](https://labs.iximiuz.com/blog/iximiuz-labs-playgrounds-2-0)
 - [Blog Post: Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://labs.iximiuz.com/blog/iximiuz-labs-story)
 <!-- BLOG-POST-LIST:END -->
