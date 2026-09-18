@@ -2,7 +2,7 @@ Welcome 👋
 
 Hey there, I'm Jimmy Nguyen.
 
-Customer‑focused IT Service Desk Support with 5+ years of experience supporting multi‑site environments across Windows, macOS, Linux, and cloud platforms. Skilled in managing service desk tickets, remote troubleshooting, user access administration, and resolving hardware/software issues in fast‑paced operational settings. Known for clear communication, structured problem‑solving, and delivering reliable end‑to‑end support. Strong foundation in networking fundamentals, ITIL‑aligned workflows, and modern support tooling.
+Customer‑focused IT Service Desk Support with 5+ years of experience supporting multi‑site environments across Windows, macOS, Linux, and cloud platforms. Skilled in managing service desk tickets, remote troubleshooting, user access administration, and resolving hardware/software issues in fast‑paced operational settings. Known for clear communication, structured problem‑solving, and delivering reliable end‑to‑end support.
 
 I've built a strong foundation in hands-on IT delivery: deploying VMs on Azure, configuring web accessible applications, managing SQL databases, and resolving everything from LAN and Wi-Fi issues to day to day end user support. I take a solutions-first approach and pride myself on clear communication with both technical and non-technical clients.
 
@@ -37,8 +37,7 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
 - American RedCross CPR
   
 # Additional information:
-- Work Rights: eligible to work in Australia
-- Work Model: Open to on‑site, hybrid, or remote
+- Full work Rights in Australia
 
 
 # Blog Posts (updates)
