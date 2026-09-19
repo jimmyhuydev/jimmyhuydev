@@ -1,6 +1,7 @@
 Welcome 👋
 
-Summary
+# Summary
+
 I’m Jimmy, an IT Support Technician with five years of hands on experience delivering frontline and Level 2 support across Microsoft, VMware, and cloud based environments. I have strong practical expertise in private cloud deployments, Azure VM provisioning, SQL administration, Windows Server, Active Directory, and enterprise networking.
 
 I bring a customer first mindset and a proven ability to troubleshoot complex technical is-sues, communicate clearly with end users, and operate effectively in multi client environments. I’m known for fast issue resolution, secure infrastructure configuration, and build-ing strong, trust based client relationships.
