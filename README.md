@@ -1,12 +1,12 @@
 Welcome 👋
 
-Hey there, I'm Jimmy Nguyen.
+Summary
+I’m Jimmy, an IT Support Technician with five years of hands on experience delivering frontline and Level 2 support across Microsoft, VMware, and cloud based environments. I have strong practical expertise in private cloud deployments, Azure VM provisioning, SQL administration, Windows Server, Active Directory, and enterprise networking.
 
-Customer‑focused IT Service Desk Support with 5+ years of experience supporting multi‑site environments across Windows, macOS, Linux, and cloud platforms. Skilled in managing service desk tickets, remote troubleshooting, user access administration, and resolving hardware/software issues in fast‑paced operational settings. Known for clear communication, structured problem‑solving, and delivering reliable end‑to‑end support.
+I bring a customer first mindset and a proven ability to troubleshoot complex technical is-sues, communicate clearly with end users, and operate effectively in multi client environments. I’m known for fast issue resolution, secure infrastructure configuration, and build-ing strong, trust based client relationships.
 
-I've built a strong foundation in hands-on IT delivery: deploying VMs on Azure, configuring web accessible applications, managing SQL databases, and resolving everything from LAN and Wi-Fi issues to day to day end user support. I take a solutions-first approach and pride myself on clear communication with both technical and non-technical clients.
+I’m committed to long term employment, value stability, and am not interested in jumping between roles. I’m passionate about working with computers, and I’m always willing to learn and follow established playbook procedures to deliver consistent, high quality out-comes.
 
-Currently completing an Associate Degree in Cyber Security at Sierra College, Sacramento, I'm deepening my expertise in networking, firewalls, and DevOps practices — with ongoing homelab projects that keep my skills sharp and current.
 
 # Core Skills
     • Service Desk Support: Ticket triage, call handling, remote troubleshooting
@@ -25,9 +25,21 @@ Currently completing an Associate Degree in Cyber Security at Sierra College, Sa
         • Simulated enterprise support scenarios using AD, DNS, DHCP, and Group Policy.
         • Performed vulnerability scanning and remediation using Nmap, Wireshark, Metasploit, OpenVAS, and Wazuh.
 
+# Professional Experience
+## IT Support Specialist — Tourplan (Christchurch, NZ)
+Oct 2018 – Jan 2024
+•	I support users with 1st and 2nd line IT help – From sorting out software glitches and printer issue to fixing hardware when it decide to stop cooperating.
+•	I like approaching problems head-on and finding ways to stop the same issues coming back again and again.
+•	I built some handy scripts and tools along the way that save the team loads of time on routine device clean-ups and maintenance.
+•	I managed user accounts day-to-day in a Windows environment using Azure AD, on-premises Active Directory and Exchange — creating accounts, handling access, setting up mailboxes, applying policies, and keeping everything synced and secure.
+•	I built and configured Azure VMs for production workloads, including secure firewall policies and access controls.
+•	I managed SQL databases: queries, setup, backup/restore, and troubleshooting for client applications.
+•	I supported LAN/Wi-Fi, printers, Windows workstations, and day to day IT issues with minimal downtime.
+•	I deploy web applications on Azure virtual machine, setup domain name, DNS services to work with the web applications, setup firewall rules to ensure the secure access to the web applications.
+
 # Education
    - Associate of Arts – Information Technology (Cyber Security) Sierra College, California | May 2026
-   - Bachelor of Information Technology Southern Institute of Technology, New Zealand | 2015
+   - Bachelor of Information Technology Southern Institute of Technology, New Zealand | December 2015
 
 # Certifications and other skills
 - CyberSecurity Fundamentals (Palo Alto)
