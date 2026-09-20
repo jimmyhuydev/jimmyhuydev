@@ -28,14 +28,23 @@ I’m committed to long term employment, value stability, and am not interested 
 
 # Professional Experience
 ## IT Support Specialist — Tourplan (Christchurch, NZ)
+
 Oct 2018 – Jan 2024
+
 •	I support users with 1st and 2nd line IT help – From sorting out software glitches and printer issue to fixing hardware when it decide to stop cooperating.
+
 •	I like approaching problems head-on and finding ways to stop the same issues coming back again and again.
+
 •	I built some handy scripts and tools along the way that save the team loads of time on routine device clean-ups and maintenance.
+
 •	I managed user accounts day-to-day in a Windows environment using Azure AD, on-premises Active Directory and Exchange — creating accounts, handling access, setting up mailboxes, applying policies, and keeping everything synced and secure.
+
 •	I built and configured Azure VMs for production workloads, including secure firewall policies and access controls.
+
 •	I managed SQL databases: queries, setup, backup/restore, and troubleshooting for client applications.
+
 •	I supported LAN/Wi-Fi, printers, Windows workstations, and day to day IT issues with minimal downtime.
+
 •	I deploy web applications on Azure virtual machine, setup domain name, DNS services to work with the web applications, setup firewall rules to ensure the secure access to the web applications.
 
 # Education
