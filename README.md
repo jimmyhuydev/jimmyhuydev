@@ -64,6 +64,7 @@ Oct 2018 – Jan 2024
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 - [U.S. Soldier Gets 70 Months in Prison for AT&amp;T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
@@ -74,7 +75,6 @@ Oct 2018 – Jan 2024
 - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 - [Blog Post: Thoughts on OpenAI&#39;s accidental attack against Hugging Face](https://labs.iximiuz.com/blog/on-openai-hugging-face-attack)
 - [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
-- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 - [Blog Post: Are user namespaces good for your health?](https://labs.iximiuz.com/blog/on-user-namespaces)
 - [Blog Post: Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own Virtual Labs](https://labs.iximiuz.com/blog/iximiuz-labs-playgrounds-2-0)
 - [Blog Post: Building a Firecracker-Powered Course Platform To Learn Docker and Kubernetes](https://labs.iximiuz.com/blog/iximiuz-labs-story)
