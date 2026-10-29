@@ -64,6 +64,7 @@ Oct 2018 – Jan 2024
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post: How I added dynamic social preview images to my site for almost nothing](https://labs.iximiuz.com/blog/adding-dynamic-social-preview-images)
 - [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
 - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
