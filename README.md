@@ -64,6 +64,7 @@ Oct 2018 – Jan 2024
 
 # Blog Posts (updates)
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
 - [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
 - [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 - [Blog Post: How I added dynamic social preview images to my site for almost nothing](https://labs.iximiuz.com/blog/adding-dynamic-social-preview-images)
@@ -74,7 +75,6 @@ Oct 2018 – Jan 2024
 - [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
-- [U.S. Soldier Gets 70 Months in Prison for AT&amp;T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 - [Blog Post: Thoughts on OpenAI&#39;s accidental attack against Hugging Face](https://labs.iximiuz.com/blog/on-openai-hugging-face-attack)
 - [Blog Post: Are user namespaces good for your health?](https://labs.iximiuz.com/blog/on-user-namespaces)
 - [Blog Post: Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own Virtual Labs](https://labs.iximiuz.com/blog/iximiuz-labs-playgrounds-2-0)
